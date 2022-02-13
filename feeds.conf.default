@@ -1,0 +1,7 @@
+src-git packages https://github.com/immortalwrt/packages.git;openwrt-18.06
+src-git luci https://github.com/immortalwrt/luci.git;openwrt-18.06
+src-git routing https://github.com/immortalwrt/routing.git;openwrt-18.06
+src-git telephony https://github.com/openwrt/telephony.git
+src-git coolsnowwolf https://github.com/coolsnowwolf/packages.git
+src-git lienol https://github.com/Lienol/openwrt-packages.git
+src-git passwall https://github.com/xiaorouji/openwrt-passwall.git
